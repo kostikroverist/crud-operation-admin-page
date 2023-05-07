@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.form {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+
+  width: 450px;
+}
+input {
+  padding: 10px;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+}
+
+th {
+  cursor: pointer;
+}
+
+.input-search {
+  width: 420px;
+
+  display: flex;
+  margin: 0 auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
